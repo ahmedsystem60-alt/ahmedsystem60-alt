@@ -1,20 +1,14 @@
 ## Hi there 👋
-# Hi there, I'm Ahmed Sami 👋
 
-🎓 **Information Systems Student** | Aspiring **Data Scientist & AI Engineer**  
-💻 Passionate about **Python**, **SQL**, **Data Analysis**, **Machine Learning**, and **Generative AI**.
+🎓 Education
+Information Systems Student at the Computer Science Institute – New Cairo Academy, Egypt.
 
----
+🤖 AI & Data Science
+Studying and developing my knowledge in Artificial Intelligence and Data Science through IEEE-related learning and training.
 
-### 🚀 Focus & Interests
-- Building data-driven solutions and exploring practical AI & ML applications.
-- Working with structured data, database queries, and analytical workflows.
-- Continuously learning and building projects across Python, data science, and AI.
+💡 Professional Interests
+Artificial Intelligence | Data Science | AI Engineering
 
-### 🛠️ Tech Stack & Tools
-- **Languages & Data:** Python, SQL, Data Analysis
-- **AI & ML:** Machine Learning, Generative AI fundamentals
-- **Workflow & Tools:** Git, GitHub, Google Colab, Jupyter, VS Code
 
 ### 🔗 Connect With Me
 - **LinkedIn:** [Ahmed Sami](https://www.linkedin.com/in/ahmed-sami-1b80b3445)
