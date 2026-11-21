@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-🎓 Education
+• Education
 Information Systems Student at the Computer Science Institute – New Cairo Academy, Egypt.
 
-🤖 AI & Data Science
+• AI & Data Science 👨‍💻
 Studying and developing my knowledge in Artificial Intelligence and Data Science through IEEE-related learning and training.
 
-💡 Professional Interests
+• Professional Interests
 Artificial Intelligence | Data Science | AI Engineering
 
 
